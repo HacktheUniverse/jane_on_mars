@@ -1,28 +1,30 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Jane On Mars!-Education
+jane-on-mars.herokuapp.com
 
-Things you may want to cover:
+Jane is an "average" Earth girl. Select a planet for her to
+visit and see how her new planet effects her weight.
 
-* Ruby version
+When playing with "Jane On Mars" it's important to think
+about mass and weight, the difference between them and
+the way they interact with each other. Mass is a fundamental
+measure of an object--it's the measure of the amount of matter
+that makes up an object--or a person. Jane's mass never changes as
+she travels through the galaxy, however her *weight*, the measurement of
+the force of gravity exerted upon her, does.
 
-* System dependencies
+You can figure out your weight on other planets by multiplying
+your Earth weight, times the gravitational pull of the planet (as compared
+to the gravitational pull of Earth)
 
-* Configuration
+		space_weight = earth_weight(gravitational_factor)
 
-* Database creation
+	For the purpose of this program, the character Jane weighs 140 lbs on
+Earth. I calculated the change in her weight on different planets and then used calorie counters to place it in the context of Earth slices of pizza and minutes
+on the treadmill.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+***Jane-On-Mars is intended purely for entertainment purposes. Intergalactic travel
+is not a recommended method of weight loss***
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
