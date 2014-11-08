@@ -1,7 +1,13 @@
 class PlanetsController < ApplicationController
+
+	def show
+		set_planet
+	end
+
 	private
     # Use callbacks to share common setup or constraints between actions.
     def set_planet
+    	logger.info("Hello?")
       @planet = Planet.find(params[:id])
     end
 
