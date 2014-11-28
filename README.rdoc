@@ -3,6 +3,8 @@
 Jane On Mars!-Education
 jane-on-mars.herokuapp.com
 
+Demo from Hack the Universe presentation: http://youtu.be/luPV2hblzR0?list=UUIuhq9LTleLC-GMdAOvvZcg
+
 Jane is an "average" Earth girl. Select a planet for her to
 visit and see how her new planet effects her weight.
 
